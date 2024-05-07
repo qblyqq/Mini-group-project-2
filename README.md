@@ -1,5 +1,6 @@
 # Mini-group-project-2
 ## Descriptive analysis：(Below is our results)
+Using functions such as group by, trade data are explored
 ## <img width="233" alt="image" src="https://github.com/qblyqq/Mini-group-project-2/assets/158158854/c2974f41-4a65-4f5b-aacf-584174b8b2d0">
 ## <img width="463" alt="image" src="https://github.com/qblyqq/Mini-group-project-2/assets/158158854/46fabd40-010f-4834-9b71-e5497afd4d9f">
 ## <img width="294" alt="image" src="https://github.com/qblyqq/Mini-group-project-2/assets/158158854/e45a1409-602d-49d0-8059-28f46b587d3b">
